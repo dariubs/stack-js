@@ -1,0 +1,19 @@
+{
+  "name": "stack-js",
+  "version": "0.0.0",
+  "description": "Stack Data Structure implementation in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dariubs/stack-js"
+  },
+  "author": "Dariush Abbasi <poshtehani@gmail.com> (http://dariubs.github.io/)",
+  "license": "GPL V3",
+  "bugs": {
+    "url": "https://github.com/dariubs/stack-js/issues"
+  },
+  "homepage": "https://github.com/dariubs/stack-js"
+}
