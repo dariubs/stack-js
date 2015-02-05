@@ -1,0 +1,8 @@
+{
+    "curly"     :   true,
+    "indent"    :   4,
+    "strict"    :   false,
+    "browser"   :   true,
+    "node"      :   true,
+    "camelcase" :   true
+}
