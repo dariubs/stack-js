@@ -1,6 +1,6 @@
 {
   "name": "stack-js",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "Stack Data Structure implementation in Javascript",
   "main": "index.js",
   "scripts": {
